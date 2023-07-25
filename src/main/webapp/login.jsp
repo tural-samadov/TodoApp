@@ -26,6 +26,7 @@
                     </div>
 
                     <button type="submit" class="btn btn-primary">Submit</button>
+                    <a class="btn btn-secondary" href="register.jsp">Signup</a>
                 </form>
             </div>
             <div class="col-3"></div>
